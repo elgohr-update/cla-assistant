@@ -1,3 +1,4 @@
+# This workflow creates a docker image of cla-assistant and publishes it to Docker Hub
 name: Publish Docker
 on: [push]
 jobs:
